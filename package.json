@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "tailwindcss build -i src/main.css -o public/style.css --minify"
+    "build": "tailwindcss build -i src/main.css -o public/style.css --watch"
   },
   "author": "",
   "license": "ISC",
